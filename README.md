@@ -19,7 +19,7 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- Mocha - Expect.js Testing
+- Mocha - Expect.js
 - Mobile-first workflow
 
 ## Author
